@@ -1,0 +1,103 @@
+<svg width="1920" heigth="1080" xmlns="http://www.w3.org/2000/svg">
+ <rect y="60" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect y="30" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect x="500" y="30" height="600" width="1" fill="#000000" style="z-index:1;"  />
+				<rect y="30" height="30" width="270" fill="#E7FFF7" style="z-index:-1;" />
+					 <text y="50" x="400" font-family="Arial" font-size="10">Canada(54)</text>
+ <rect y="90" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect y="30" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect x="500" y="30" height="600" width="1" fill="#000000" style="z-index:1;"  />
+				<rect y="60" height="30" width="30" fill="#98E8FF" style="z-index:-1;" />
+					 <text y="80" x="400" font-family="Arial" font-size="10">Norway(6)</text>
+ <rect y="120" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect y="30" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect x="500" y="30" height="600" width="1" fill="#000000" style="z-index:1;"  />
+				<rect y="90" height="30" width="105" fill="#45A2E8" style="z-index:-1;" />
+					 <text y="110" x="400" font-family="Arial" font-size="10">USA(21)</text>
+ <rect y="150" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect y="30" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect x="500" y="30" height="600" width="1" fill="#000000" style="z-index:1;"  />
+				<rect y="120" height="30" width="20" fill="#2278FF" style="z-index:-1;" />
+					 <text y="140" x="400" font-family="Arial" font-size="10">Austria(4)</text>
+ <rect y="180" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect y="30" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect x="500" y="30" height="600" width="1" fill="#000000" style="z-index:1;"  />
+				<rect y="150" height="30" width="35" fill="005FF5" style="z-index:-1;" />
+					 <text y="170" x="400" font-family="Arial" font-size="10">Germany(7)</text>
+ <rect y="210" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect y="30" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect x="500" y="30" height="600" width="1" fill="#000000" style="z-index:1;"  />
+				<rect y="180" height="30" width="30" fill="#E7FFF7" style="z-index:-1;" />
+					 <text y="200" x="400" font-family="Arial" font-size="10">Netherlands(6)</text>
+ <rect y="240" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect y="30" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect x="500" y="30" height="600" width="1" fill="#000000" style="z-index:1;"  />
+				<rect y="210" height="30" width="25" fill="#98E8FF" style="z-index:-1;" />
+					 <text y="230" x="400" font-family="Arial" font-size="10">Australia(5)</text>
+ <rect y="270" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect y="30" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect x="500" y="30" height="600" width="1" fill="#000000" style="z-index:1;"  />
+				<rect y="240" height="30" width="15" fill="#45A2E8" style="z-index:-1;" />
+					 <text y="260" x="400" font-family="Arial" font-size="10">Liechtenstein(3)</text>
+ <rect y="300" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect y="30" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect x="500" y="30" height="600" width="1" fill="#000000" style="z-index:1;"  />
+				<rect y="270" height="30" width="5" fill="#2278FF" style="z-index:-1;" />
+					 <text y="290" x="400" font-family="Arial" font-size="10">Korea(1)</text>
+ <rect y="330" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect y="30" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect x="500" y="30" height="600" width="1" fill="#000000" style="z-index:1;"  />
+				<rect y="300" height="30" width="5" fill="005FF5" style="z-index:-1;" />
+					 <text y="320" x="400" font-family="Arial" font-size="10">Czech Rep(1)</text>
+ <rect y="360" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect y="30" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect x="500" y="30" height="600" width="1" fill="#000000" style="z-index:1;"  />
+				<rect y="330" height="30" width="5" fill="#E7FFF7" style="z-index:-1;" />
+					 <text y="350" x="400" font-family="Arial" font-size="10">Spain(1)</text>
+ <rect y="390" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect y="30" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect x="500" y="30" height="600" width="1" fill="#000000" style="z-index:1;"  />
+				<rect y="360" height="30" width="10" fill="#98E8FF" style="z-index:-1;" />
+					 <text y="380" x="400" font-family="Arial" font-size="10">Sweden(2)</text>
+ <rect y="420" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect y="30" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect x="500" y="30" height="600" width="1" fill="#000000" style="z-index:1;"  />
+				<rect y="390" height="30" width="35" fill="#45A2E8" style="z-index:-1;" />
+					 <text y="410" x="400" font-family="Arial" font-size="10">Switzerland(7)</text>
+ <rect y="450" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect y="30" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect x="500" y="30" height="600" width="1" fill="#000000" style="z-index:1;"  />
+				<rect y="420" height="30" width="5" fill="#2278FF" style="z-index:-1;" />
+					 <text y="440" x="400" font-family="Arial" font-size="10">Italy(1)</text>
+ <rect y="480" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect y="30" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect x="500" y="30" height="600" width="1" fill="#000000" style="z-index:1;"  />
+				<rect y="450" height="30" width="25" fill="005FF5" style="z-index:-1;" />
+					 <text y="470" x="400" font-family="Arial" font-size="10">New Zealand(5)</text>
+ <rect y="510" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect y="30" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect x="500" y="30" height="600" width="1" fill="#000000" style="z-index:1;"  />
+				<rect y="480" height="30" width="75" fill="#E7FFF7" style="z-index:-1;" />
+					 <text y="500" x="400" font-family="Arial" font-size="10">Luxembourg(15)</text>
+ <rect y="540" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect y="30" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect x="500" y="30" height="600" width="1" fill="#000000" style="z-index:1;"  />
+				<rect y="510" height="30" width="20" fill="#98E8FF" style="z-index:-1;" />
+					 <text y="530" x="400" font-family="Arial" font-size="10">Iceland(4)</text>
+ <rect y="570" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect y="30" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect x="500" y="30" height="600" width="1" fill="#000000" style="z-index:1;"  />
+				<rect y="540" height="30" width="10" fill="#45A2E8" style="z-index:-1;" />
+					 <text y="560" x="400" font-family="Arial" font-size="10">Malta(2)</text>
+ <rect y="600" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect y="30" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect x="500" y="30" height="600" width="1" fill="#000000" style="z-index:1;"  />
+				<rect y="570" height="30" width="5" fill="#2278FF" style="z-index:-1;" />
+					 <text y="590" x="400" font-family="Arial" font-size="10">Belgium(1)</text>
+ <rect y="630" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect y="30" height="1" width="500" fill="#000000" style="z-index:1;" />
+					<rect x="500" y="30" height="600" width="1" fill="#000000" style="z-index:1;"  />
+				<rect y="600" height="30" width="5" fill="undefined" style="z-index:-1;" />
+					 <text y="620" x="400" font-family="Arial" font-size="10">Finland(1)</text>
+					 <text x="50" y="20" font-family="Arial" font-size="20">Swiss Migration Destination</text>
+</svg>
